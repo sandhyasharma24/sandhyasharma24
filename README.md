@@ -21,10 +21,10 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/sandhya-sharma-24oct2004">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
+  <a href="https://youtube.com/@sandhyasharma7931?si=ZMsd0TnU7u_ivfFb">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="@sandhya24102001">
+  <a href="https://x.com/sandhya24102001?t=FKL_H1YnxHGlKgR4FfU5zw&s=09">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
