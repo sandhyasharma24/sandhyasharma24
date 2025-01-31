@@ -35,9 +35,9 @@ Here are some ideas to get you started:
 </div>
 ### :woman_technologist: About Me :
 <br>
-- 🔭 I’m currently working on electricity website
+- 🔭 I’m currently developing a game in UNITY 3D
 <br>
-- 🌱 I’m currently learning C++ and DSA
+- 🌱 I’m currently learning C# 
 <br>
 - 👯 I’m looking to collaborate on projects require html and css skills
 <br>
