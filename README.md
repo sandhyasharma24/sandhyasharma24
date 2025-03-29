@@ -50,11 +50,11 @@
 
 ### 🔥 **My Projects**
 #### **AI & Machine Learning**
-- 🖼️ [**AI-Powered Image Generation System**](https://github.com/sandhyasharma24/image-generation)  
+- 🖼️ [**AI-Powered Image Generation System**](https://github.com/sandhyasharma24/Image_generation_system)  
   - Built using **Stable Diffusion, LoRA Fine-Tuning, FastAPI**
   - Generates **AI images based on text prompts**  
 
-- ✍️ [**Handwritten Digit Classifier (MNIST)**](https://github.com/sandhyasharma24/hand-digit-classifier)  
+- ✍️ [**Handwritten Digit Classifier (MNIST)**](https://github.com/sandhyasharma24/hand_digit_classifier)  
   - **Deep Learning Model** trained on MNIST Dataset  
   - **Deployed using Flask API & Docker**  
 
