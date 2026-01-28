@@ -75,7 +75,7 @@
 
 ### 🎯 **Let's Connect!**
 💬 Reach out if you want to discuss **AI, Backend, or Open Source Projects**!  
-🌎 **Portfolio (Coming Soon! 🚀)**  
+🌎 **Portfolio  https://sandhyasharma24.github.io/my-portfolio/ **  
 📌 **[LinkedIn](https://www.linkedin.com/in/sandhya-sharma-24oct2004) | [GitHub](https://github.com/sandhyasharma24) | [Twitter](https://x.com/sandhya24102001)**  
 
 ---
