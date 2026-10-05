@@ -1,83 +1,54 @@
-<!-- GitHub Profile README -->
+# Hi, I'm Sandhya 👋
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  
-  <div id="badges">
-    <a href="https://www.linkedin.com/in/sandhya-sharma-24oct2004">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href="https://youtube.com/@sandhyasharma7931?si=ZMsd0TnU7u_ivfFb">
-      <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
-    </a>
-    <a href="https://x.com/sandhya24102001?t=FKL_H1YnxHGlKgR4FfU5zw&s=09">
-      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-    </a>
-  </div>
+**Backend Engineer | Java • Spring Boot • Python • ML | B.Tech CSE '26**
 
-  <img src="https://komarev.com/ghpvc/?username=sandhyasharma24&style=flat-square&color=blue" alt="Profile Views"/>
-  
-  <h1> Hey there! 👋 </h1>
-</div>
+I build backend services, REST APIs, and ML-powered applications, with a growing focus on **Java/Spring Boot backend engineering** and production-oriented system design.
 
----
+### 🔧 Current Focus
 
-### 🚀 **About Me**
-- 🔭 Currently working on **AI Model Deployment & Backend Development**
-- 🌱 Learning **LoRA Fine-Tuning, AI Deployment, and System Design**
-- 👯 Looking to collaborate on **AI/ML projects, DSA, and Web Development**
-- 💬 Ask me about **AI, Backend, Python, C++, DSA**
-- 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/sandhya-sharma-24oct2004)  
-- ⚡ Fun Fact: **I spend all my energy learning new technologies and experimenting with AI workflows! 😁**
+- **Java & Spring Boot** — REST APIs, Spring Data JPA, validation, scheduling, and backend architecture
+- **Backend Engineering** — API design, persistence, idempotency, error handling, and service-layer design
+- **Python & AI/ML** — computer vision, model deployment, and AI-powered applications
+- **System Design** — building and documenting production-style services
 
----
+### 🚀 Featured Projects
 
-### 🛠️ **Languages & Tools**
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" alt="TensorFlow" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="PyTorch" alt="PyTorch" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" title="FastAPI" alt="FastAPI" width="40" height="40"/>
-</div>
+- **[Event-Driven Notification Service](https://github.com/sandhyasharma24/Event-Driven-Notification-Service)**  
+  Java 21 / Spring Boot service for event registration and notification workflows, with JPA, MySQL, scheduled processing, email integration, idempotency handling, validation, Actuator, and OpenAPI.
 
----
+- **[ModernizeX](https://github.com/sandhyasharma24/ModernizeX)**  
+  AI-assisted legacy API modernization project focused on analyzing and modernizing legacy Java APIs.
 
-### 🔥 **My Projects**
-#### **AI & Machine Learning**
-- 🖼️ [**AI-Powered Image Generation System**](https://github.com/sandhyasharma24/Image_generation_system)  
-  - Built using **Stable Diffusion, LoRA Fine-Tuning, FastAPI**
-  - Generates **AI images based on text prompts**  
+- **[StudyMate AI](https://github.com/sandhyasharma24/studymate.ai)**  
+  AI-powered study application.
 
-- ✍️ [**Handwritten Digit Classifier (MNIST)**](https://github.com/sandhyasharma24/hand_digit_classifier)  
-  - **Deep Learning Model** trained on MNIST Dataset  
-  - **Deployed using Flask API & Docker**  
+- **[API Contract Monitoring Platform](https://github.com/sandhyasharma24/API-Contract-Monitoring-Platform)**  
+  Project focused on monitoring API contracts and compatibility.
 
-#### **Backend & Full-Stack**
-- 🏡 [**Real Estate Lead Management System**](https://github.com/sandhyasharma24/real_estate_lead_management_system)  
-  - **AI-based Lead Scoring & Sentiment Analysis**
-  - **FastAPI, Machine Learning, Dockerized Deployment**  
+- **[Real Estate Lead Management System](https://github.com/sandhyasharma24/real_estate_lead_management_system)**  
+  Lead-management application combining backend APIs with ML-based lead analysis.
 
- 
+- **[Image Generation System](https://github.com/sandhyasharma24/Image_generation_system)**  
+  AI image-generation project using Stable Diffusion, LoRA fine-tuning, and FastAPI.
+
+### 🧰 Technologies
+
+**Backend:** Java, Spring Boot, Spring Data JPA, Hibernate, REST APIs, Python, FastAPI  
+**Databases:** MySQL, PostgreSQL, SQL  
+**AI/ML:** PyTorch, TensorFlow, Keras, OpenCV, YOLO, Hugging Face  
+**Tools:** Git, GitHub, Docker, Maven, VS Code
+
+### 🏆 Highlights
+
+- **Dr. Code Hackathon 2025** — Top 30 out of 430 participants
+- **Google Girl Hackathon 2025** — participated in DSA and AI/model-deployment challenges
+
+### 🔗 Connect
+
+- **[Portfolio](https://sandhyasharma24.github.io/my-portfolio/)**
+- **[LinkedIn](https://www.linkedin.com/in/sandhya-sharma-24oct2004)**
+- **[GitHub](https://github.com/sandhyasharma24)**
 
 ---
 
-### 🏆 **Hackathons & Achievements**
-✅ **Dr. Code Hackathon (2025)** – Selected **Top 30 out of 430 participants** for the final round.  
-✅ **Google Girl Hackathon 2025** – Competed in DSA & AI Model Deployment challenges.
-
----
-
-### 🎯 **Let's Connect!**
-💬 Reach out if you want to discuss **AI, Backend, or Open Source Projects**!  
-🌎 **Portfolio  https://sandhyasharma24.github.io/my-portfolio/ **  
-📌 **[LinkedIn](https://www.linkedin.com/in/sandhya-sharma-24oct2004) | [GitHub](https://github.com/sandhyasharma24) | [Twitter](https://x.com/sandhya24102001)**  
-
----
-
-✨ **_"AI isn't just the future, it's happening now – let's build something amazing!"_** ✨
+*Building practical backend systems and AI-powered applications, one project at a time.*
